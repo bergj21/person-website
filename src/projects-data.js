@@ -19,13 +19,13 @@ const projects = [
     },
     {
         title: "Universal Machine",
-        description: "A Universal Machine in C that handles 14 RISC-style instructions. Emulates the state, logic, and hardware of a computer to run a given program.",
+        description: "A Universal Machine that handles 14 RISC-style instructions. Emulates the state, logic, and hardware of a computer to run a given program.",
         langs: ["C"],
         link: "https://github.com/bergj21/Universal-Machine"
     },
     {
         title: "RPN Calculator",
-        description: "An Reverse Polish Notation Calculator in Universal Machine Macro Assembler Language. Low-level programming, implementing call stack and following calling conventions.",
+        description: "A Reverse Polish Notation Calculator in Universal Machine Macro Assembler Language. Low-level programming, implementing call stack and following calling conventions.",
         langs: ["Universal Machine Macro Assembler"],
         link: "https://github.com/bergj21/RPN-Calculator"
     }
