@@ -309,6 +309,11 @@ main {
 }
 
 @media screen and (max-width: 935px) {
+  .content {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
   .about-section {
     text-align: center;
     flex-direction: column-reverse;
@@ -405,7 +410,7 @@ main {
 
 @media screen and (max-width: 625px) {
   .content { 
-    padding: 0 100px;
+    padding: 0 50px;
   }
 
   .projects-container {
