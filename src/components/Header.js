@@ -16,7 +16,7 @@ function Header() {
   };
   return (
     <header className="nav-bar">
-      <h1 className="nav-title">John Berg</h1>
+      <h1>John Berg</h1>
       <div className={`link-btns ${isActiveHamburger ? "active" : ""}`}>
         <ul className="nav-menu">
           <li className="nav-item">
