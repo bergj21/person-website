@@ -123,7 +123,7 @@ main {
 /* About Section */
 
 .content {
-  margin-top: 90px;
+  margin-top: 100px;
   padding-left: 140px;
   padding-right: 140px;
 }
@@ -332,7 +332,7 @@ main {
   }
 
   .typewriter {
-    display: block;
+    display: inline-block;
     font-size: 18px;
   }
 

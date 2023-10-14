@@ -1,7 +1,7 @@
 const projects = [
     {
         title: "JPEG Compressor",
-        description: "A lossy jpeg compressor and decompressor. Utilizes color space conversion, quantization, bit packing, etc",
+        description: "A lossy jpeg compressor and decompressor. Utilizes color space conversion, quantization, bit packing, etc.",
         langs: ["C"],
         link: "https://github.com/bergj21/Image-Compressor"
     },
@@ -13,7 +13,7 @@ const projects = [
     },
     {
         title: "Travel Journal",
-        description: "A web application that acts as a journal for travel information",
+        description: "A web application that acts as a journal for travel information.",
         langs: ["React", "HTML", "CSS"],
         link: "https://github.com/bergj21/Travel-Journal"
     },
@@ -25,7 +25,7 @@ const projects = [
     },
     {
         title: "RPN Calculator",
-        description: "An Reverse Polish Notation Calculator in Universal Machine Macro Assembler Language. Experience with low-level programming, implementing call stack and following calling conventions.",
+        description: "An Reverse Polish Notation Calculator in Universal Machine Macro Assembler Language. Low-level programming, implementing call stack and following calling conventions.",
         langs: ["Universal Machine Macro Assembler"],
         link: "https://github.com/bergj21/RPN-Calculator"
     }
