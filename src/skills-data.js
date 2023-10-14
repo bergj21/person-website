@@ -5,7 +5,7 @@ import Java from "./assets/skills/Java.svg"
 import CSS from "./assets/skills/CSS.svg"
 import Javascript from "./assets/skills/Javascript.svg"
 import React from "./assets/skills/React.svg"
-// import Git from "./assets/skills/Git.svg"
+import Git from "./assets/skills/Git.svg"
 
 const languages = [
     {
@@ -36,10 +36,10 @@ const languages = [
         skill: "React",
         src: React
     },
-    // {
-    //     skill: "Git",
-    //     src: Git
-    // }
+    {
+        skill: "Git",
+        src: Git
+    }
 ]
 
 export default languages;

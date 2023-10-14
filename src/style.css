@@ -216,13 +216,11 @@ main {
 }
 
 .skill img {
-  margin: 5px 0px 5px 0px;
-  height: 3vw;
-  min-height: 30px;
+  height: 40px;
 }
 
 .skill span {
-  padding-top: 5px;
+  margin-top: 5px;
   font-size: 13px;
   color: rgb(177, 173, 173);
 }
