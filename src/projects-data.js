@@ -24,8 +24,8 @@ const projects = [
         link: "https://github.com/bergj21/Universal-Machine"
     },
     {
-        title: "Reverse Polish Notation Calculator",
-        description: "An RPN Calculator in Universal Machine Macro Assembler Language. Gained experience with low-level programming having implemented the call stack and following specific calling conventions.",
+        title: "RPN Calculator",
+        description: "An Reverse Polish Notation Calculator in Universal Machine Macro Assembler Language. Experience with low-level programming, implementing call stack and following calling conventions.",
         langs: ["Universal Machine Macro Assembler"],
         link: "https://github.com/bergj21/RPN-Calculator"
     }
