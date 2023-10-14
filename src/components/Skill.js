@@ -2,10 +2,10 @@ import React from "react"
 
 function Skill(props) {
   return (
-    <div className="skill">
+    <span className="skill">
         <img src={props.src} alt=""/>
         <span >{props.skill}</span>
-    </div>
+    </span>
   );
 }
 
