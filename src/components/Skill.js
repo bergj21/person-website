@@ -4,7 +4,7 @@ function Skill(props) {
   return (
     <span className="skill">
         <img src={props.src} alt=""/>
-        <span >{props.skill}</span>
+        <span className="skill-lang">{props.skill}</span>
     </span>
   );
 }
