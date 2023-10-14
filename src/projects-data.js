@@ -28,6 +28,12 @@ const projects = [
         description: "A Reverse Polish Notation Calculator in Universal Machine Macro Assembler Language. Low-level programming, implementing call stack and following calling conventions.",
         langs: ["Universal Machine Macro Assembler"],
         link: "https://github.com/bergj21/RPN-Calculator"
+    },
+    {
+        title: "This website!",
+        description: "I made this website as a portfolio for all of my projects.",
+        langs: ["React", "HTML", "CSS"],
+        link: "https://github.com/bergj21/personal-website"
     }
 ]
 
