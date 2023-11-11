@@ -34,6 +34,12 @@ const projects = [
         description: "I made this website as a portfolio for all of my projects.",
         langs: ["React", "HTML", "CSS"],
         link: "https://github.com/bergj21/personal-website"
+    },
+    {
+        title: "JUnit",
+        description: "A JUnit-like testing framework that offers the automated program testing technique QuickCheck.",
+        langs: ["Java"],
+        link: "https://github.com/bergj21/JUnit"
     }
 ]
 
