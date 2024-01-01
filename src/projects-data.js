@@ -40,6 +40,24 @@ const projects = [
         description: "A JUnit-like testing framework that offers the automated program testing technique QuickCheck.",
         langs: ["Java"],
         link: "https://github.com/bergj21/JUnit"
+    },
+    {
+        title: "Java on Rails",
+        description: "A Ruby on Rails inspired web framework that utilizes the model-view-controller architecture.",
+        langs: ["Java"],
+        link: "https://github.com/bergj21/Java-on-Rails"
+    },
+    {
+        title: "Concurrent MBTA Simulator",
+        description: "A multi-threaded simulation of the MBTA. Passengers ride trains between stations, boarding and deboarding to complete their journey",
+        langs: ["Java"],
+        link: "https://github.com/bergj21/Concurrent-Train-Simulator"
+    },
+    {
+        title: "Space Invaders",
+        description: "A version of the arcade game Space Invaders implemented in a hardware description language",
+        langs: ["VHSIC Hardware Description Language"],
+        link: "https://github.com/bergj21/Space-Invaders"
     }
 ]
 

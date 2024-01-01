@@ -6,6 +6,12 @@ import CSS from "./assets/skills/CSS.svg"
 import Javascript from "./assets/skills/Javascript.svg"
 import React from "./assets/skills/React.svg"
 import Git from "./assets/skills/Git.svg"
+import MongoDB from "./assets/skills/MongoDB.svg"
+import Postman from "./assets/skills/Postman.svg"
+import PostgreSQL from "./assets/skills/PostgreSQL.svg"
+import Node from "./assets/skills/Node.svg"
+import Linux from "./assets/skills/Linux.svg"
+
 
 const languages = [
     {
@@ -31,7 +37,7 @@ const languages = [
     {
         skill: "JavaScript",
         src: Javascript
-    },
+    }, 
     {
         skill: "React",
         src: React
@@ -39,7 +45,27 @@ const languages = [
     {
         skill: "Git",
         src: Git
-    }
+    },
+    {
+        skill: "Node",
+        src: Node
+    },
+    {
+        skill: "MongoDB",
+        src: MongoDB
+    },
+    {
+        skill: "Postman",
+        src: Postman
+    },
+    {
+        skill: "Linux",
+        src: Linux
+    },
+    {
+        skill: "PostgreSQL",
+        src: PostgreSQL
+    },
 ]
 
 export default languages;
